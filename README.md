@@ -66,13 +66,13 @@ private class Comment {
 
 ## Phần 2: OOP và SOLID
 ### 1. Hãy lập trình Java để thực hiện thiết kế như hình vẽ
-Gõ link đến mã nguồn bài này vào đây. Đừng comment code. Nếu thực sự CleanCode thì không cần comment vẫn hiểu được.
+https://github.com/Tuananhbkhn/CleanCode_BaiTapCuoiKhoa/tree/master/phan2/graphiceditor/src/graphiceditor
 
 ### 2. Composition over Inheritance và DI
-Gõ link đến mã nguồn bài này vào đây
+https://github.com/Tuananhbkhn/CleanCode_BaiTapCuoiKhoa/tree/master/phan2/vinfastdemo
 
 ## Phần 3: Thiết kế CSDL Quan hệ theo đặc tả
-
+![Thiết kế CSDL Course Management](https://github.com/Tuananhbkhn/CleanCode_BaiTapCuoiKhoa/blob/master/phan3/ThietKeCSDL.PNG)
 ## Phần 4: Thiết kế RESTful API
 
 ## Phần 5: Lập trình Restful API
