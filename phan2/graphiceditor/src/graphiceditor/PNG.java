@@ -1,6 +1,6 @@
 package graphiceditor;
 
-public class PNG extends File {
+public class PNG implements iFile {
 
 	@Override
 	public void openFile() {
