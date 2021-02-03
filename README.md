@@ -4,15 +4,16 @@
 
 ## Phần 1: Clean Code căn bản
 1. 5 mục tiêu chính của Clean Code là
-   - Mục tiêu 1: Làm cho code sạch hơn, dễ đọc hơn.
+   - Mục tiêu 1: Làm cho code sạch hơn, dễ đọc hơn, đơn giản, hiệu quả, không bị lặp và sáng sủa.
    - Mục tiêu 2: Làm dễ dàng phát hiện bug, tiết kiệm chi phí fix bug.
    - Mục tiêu 3: Làm cho code dễ mở rộng.
    - Mục tiêu 4: Làm cho code dễ bảo trì.
-   - Mục tiêu 5:
+   - Mục tiêu 5: Làm tiết kiệm thời gian và gia tăng giá trị cho công việc.
    
-2. Đáp án của tôi là team A bởi vì:
-   - Lý do 1: Với những người mới thì chưa chắc đã áp dụng được ngay những kỹ thuật khó để Clean Code, áp dụng những kĩ thuật dễ nhớ, đơn giản trước là hợp lý.
-   - Lý do 2: Dành quá nhiều thời gian cho Clean Code sẽ làm ảnh hưởng đến tiến độ dự án, việc đào tạo về Clean Code nên được làm trước khi bắt đầu dự án thay vì trong thời gian thực hiện dự án.
+2. Đáp án của tôi là team C bởi vì:
+   - Lý do 1: Nên áp dụng Clean Code từ đầu dự án để đồng bộ.
+   - Lý do 2: Với những người mới thì chưa chắc đã áp dụng được ngay những kỹ thuật khó để Clean Code, áp dụng những kĩ thuật dễ nhớ, đơn giản trước là hợp lý.
+   - Lý do 3: Dành quá nhiều thời gian cho Clean Code sẽ làm ảnh hưởng đến tiến độ dự án, việc đào tạo về Clean Code nên được làm trước khi bắt đầu dự án thay vì trong thời gian thực hiện dự án.
    
 3. Clean Code không làm phức tạp hóa vấn đề. Có thể thời gian đầu khi code còn đơn giản các bạn sẽ cảm thấy không cần thiết phải Clean Code nhưng khi sau này code mở rộng ra, các bạn sẽ thấy lợi ích của Clean Code. Nó giúp cho code dễ đọc, dễ hiểu, dễ tìm bug, từ đó tiết kiệm được rất nhiều thời gian fix bug và refactor code. Nếu từ đầu không áp dụng Clean Code, càng về sau code của các bạn sẽ càng ngày càng rối và khó hiểu, lúc đó sẽ rất mất thời gian để tìm bug, fix bug, mở rộng code,.. thậm chí là phải đập đi làm lại. Vì vậy, hãy Clean Code sớm nhất có thể.
 
