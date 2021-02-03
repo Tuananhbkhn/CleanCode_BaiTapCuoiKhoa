@@ -1,6 +1,6 @@
 package graphiceditor;
 
-public class BMP extends File {
+public class BMP implements iFile {
 
 	@Override
 	public void openFile() {
