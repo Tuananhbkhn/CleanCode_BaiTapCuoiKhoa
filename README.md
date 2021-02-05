@@ -74,9 +74,12 @@ https://github.com/Tuananhbkhn/CleanCode_BaiTapCuoiKhoa/tree/master/phan2/vinfas
 
 ## Phần 3: Thiết kế CSDL Quan hệ theo đặc tả
 ![Thiết kế CSDL Course Management](https://github.com/Tuananhbkhn/CleanCode_BaiTapCuoiKhoa/blob/master/phan3/ThietKeCSDL.PNG)
+
 ## Phần 4: Thiết kế RESTful API
+https://github.com/Tuananhbkhn/CleanCode_BaiTapCuoiKhoa/tree/master/phan4
 
 ## Phần 5: Lập trình Restful API
+https://github.com/Tuananhbkhn/CleanCode_BaiTapCuoiKhoa/tree/master/phan5
 
 ## Trắc nghiệm
 1.C
